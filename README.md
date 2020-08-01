@@ -1,6 +1,6 @@
 ### hello ^_^
 
-im charlie. i like writing everything in lowercase. im a software engineer with a tic for well crafted code. while my focus lies in writing ui with react, i have an obsession with optimizing for web performance, so i'm open to working on any type of solution to achieve responsive apps. i understand that security and accessibility come before 
+im charlie. i like writing everything in lowercase. im a software engineer with a tic for well crafted code. while my focus lies in writing ui with react, i have an obsession with optimizing for web performance, so i'm open to working on any type of solution to achieve responsive apps. i understand that security and accessibility are first class priorities. it's kind of like doing homework before going outside to play, as mother would say.
 
 i've watched the last dance twice during shelter in place and im probably going to watch it again. it's so good. 
 

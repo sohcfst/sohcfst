@@ -1,4 +1,4 @@
-### hello ^_^
+### hello 
 
 software engineer with a focus on the frontend. while my day to day involves ui engineering and all things ui adjacent, i thoroughly enjoy optimizing for web performance & developer workflow efficiency.
 

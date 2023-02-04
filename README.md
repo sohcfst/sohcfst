@@ -4,7 +4,7 @@ software engineer with a focus on the frontend. while my day to day involves ui 
 
 i've watched [the last dance](https://www.netflix.com/title/80203144) ~twice during shelter in place and~ ~~im probably going to watch it again.~~ ~im currently on my third watch.~ three times during quarantine. i don't even normally watch basketball or sports in general; it's just so good. im an enjoyer of making a pourover coffee, some fresh air, and maintaining way too many spotify playlists.
 
-my [website](https://antidesign.xyz) will better capture my being (it's not fully built out yet, but it's the aesthetic i'm going for)
+my [website](https://antidesign.company) will better capture my being (it's not fully built out yet, but it's the aesthetic i'm going for)
 
 cheers,
 charlie
